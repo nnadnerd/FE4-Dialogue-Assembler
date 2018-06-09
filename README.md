@@ -6,3 +6,5 @@ Resources used can be found here:
 https://serenesforest.net/forums/index.php?/topic/39994-gharnefs-improved-fe4-translation-patch/ 
 
 The Binaries can be found here: https://www.dropbox.com/s/n2ftze3jbe391lh/Dialogue%20Text%20Editor.zip?dl=0
+
+All work is free to use under any circumstances with or without credit given to me.
